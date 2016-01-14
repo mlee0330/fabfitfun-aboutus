@@ -1,0 +1,52 @@
+var profiles = {
+  "user1": {
+    "name": "Michael Lee",
+    "desc": "Michael is a full-stack software engineer with a passion for making products that are fun to use and look just as good.",
+    "img": "https://avatars2.githubusercontent.com/u/12353798?v=3&s=460",
+    },
+  "user2": {
+    "name": "Amy",
+    "desc": "Viral letterpress chia artisan, waistcoat twee kickstarter knausgaard trust fund 3 wolf moon pitchfork. Fernet branca VHS green juice chambray, cred yr.",
+    "img": "user.jpg"
+    },
+  "user3": {
+    "name": "Brian",
+    "desc": "Viral letterpress chia artisan, waistcoat twee kickstarter knausgaard trust fund 3 wolf moon pitchfork. Fernet branca VHS green juice chambray, cred yr.",
+    "img": "user.jpg"
+    },
+  "user4": {
+    "name": "Carl",
+    "desc": "Viral letterpress chia artisan, waistcoat twee kickstarter knausgaard trust fund 3 wolf moon pitchfork. Fernet branca VHS green juice chambray, cred yr.",
+    "img": "user.jpg"
+    },
+  "user5": {
+    "name": "Davina",
+    "desc": "Viral letterpress chia artisan, waistcoat twee kickstarter knausgaard trust fund 3 wolf moon pitchfork. Fernet branca VHS green juice chambray, cred yr.",
+    "img": "user.jpg"
+    },
+  "user6": {
+    "name": "Einstein",
+    "desc": "I love to eat kibble and bark at strange noises.",
+    "img": "einstein.jpg"
+    },
+  "user7": {
+    "name": "Florence",
+    "desc": "Viral letterpress chia artisan, waistcoat twee kickstarter knausgaard trust fund 3 wolf moon pitchfork. Fernet branca VHS green juice chambray, cred yr.",
+    "img": "user.jpg"
+    },
+  "user8": {
+    "name": "Gary",
+    "desc": "Viral letterpress chia artisan, waistcoat twee kickstarter knausgaard trust fund 3 wolf moon pitchfork. Fernet branca VHS green juice chambray, cred yr.",
+    "img": "user.jpg"
+    },
+  "user9": {
+    "name": "Heather",
+    "desc": "Viral letterpress chia artisan, waistcoat twee kickstarter knausgaard trust fund 3 wolf moon pitchfork. Fernet branca VHS green juice chambray, cred yr.",
+    "img": "user.jpg"
+    },
+  "user10": {
+    "name": "Ira",
+    "desc": "Viral letterpress chia artisan, waistcoat twee kickstarter knausgaard trust fund 3 wolf moon pitchfork. Fernet branca VHS green juice chambray, cred yr.",
+    "img": "user.jpg"
+    },
+}
